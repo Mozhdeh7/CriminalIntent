@@ -6,7 +6,8 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.24818840579710144" />
         <entry key="app/src/main/res/layout/fragment_crime.xml" value="0.165" />
         <entry key="app/src/main/res/layout/fragment_crime_list.xml" value="0.1125" />
-        <entry key="app/src/main/res/layout/list_item_crime.xml" value="0.1881371640407785" />
+        <entry key="app/src/main/res/layout/list_item_crime.xml" value="0.25" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>
   </component>
